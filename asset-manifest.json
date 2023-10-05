@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio_Anjana/static/css/main.df6a7eab.css",
-    "main.js": "/Portfolio_Anjana/static/js/main.566c88f5.js",
-    "static/js/787.a2f12336.chunk.js": "/Portfolio_Anjana/static/js/787.a2f12336.chunk.js",
-    "static/media/logo_big.png": "/Portfolio_Anjana/static/media/logo_big.8de60d302ab56bfa7ea3.png",
-    "static/media/calculator_logo.png": "/Portfolio_Anjana/static/media/calculator_logo.bbca3890a2a5d34b200f.png",
-    "index.html": "/Portfolio_Anjana/index.html",
-    "main.df6a7eab.css.map": "/Portfolio_Anjana/static/css/main.df6a7eab.css.map",
-    "main.566c88f5.js.map": "/Portfolio_Anjana/static/js/main.566c88f5.js.map",
-    "787.a2f12336.chunk.js.map": "/Portfolio_Anjana/static/js/787.a2f12336.chunk.js.map"
+    "main.css": "/anjanaportfolio/static/css/main.df6a7eab.css",
+    "main.js": "/anjanaportfolio/static/js/main.d5f56c6f.js",
+    "static/js/787.a2f12336.chunk.js": "/anjanaportfolio/static/js/787.a2f12336.chunk.js",
+    "static/media/logo_big.png": "/anjanaportfolio/static/media/logo_big.8de60d302ab56bfa7ea3.png",
+    "static/media/calculator_logo.png": "/anjanaportfolio/static/media/calculator_logo.bbca3890a2a5d34b200f.png",
+    "index.html": "/anjanaportfolio/index.html",
+    "main.df6a7eab.css.map": "/anjanaportfolio/static/css/main.df6a7eab.css.map",
+    "main.d5f56c6f.js.map": "/anjanaportfolio/static/js/main.d5f56c6f.js.map",
+    "787.a2f12336.chunk.js.map": "/anjanaportfolio/static/js/787.a2f12336.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df6a7eab.css",
-    "static/js/main.566c88f5.js"
+    "static/js/main.d5f56c6f.js"
   ]
 }
